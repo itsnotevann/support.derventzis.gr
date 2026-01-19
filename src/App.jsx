@@ -19,7 +19,7 @@ export default function App() {
 
         <a
           href="https://github.com/rustdesk/rustdesk/releases/download/1.4.5/rustdesk-1.4.5-x86_64.exe"
-          className="w-full py-3 rounded-xl bg-[#F15A24] hover:bg-[#D04A1E] text-white font-semibold text-center shadow"
+          className="w-full py-3 rounded-xl bg-[#1E90FF] hover:bg-[#1C82E6] text-white font-semibold text-center shadow"
         >
           Download RustDesk
         </a>
